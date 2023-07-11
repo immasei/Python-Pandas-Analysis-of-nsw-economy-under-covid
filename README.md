@@ -20,5 +20,4 @@ These data sets are recorded for every month for several years. We expect that i
 
 | Dataset   | Source  | License                         	      |
 | :-------- | :------: | :-------------------------------------- | 
-| International Students| [Department of Education and Department of Employment and Workplace
-Relations (DESE)](https://www.education.gov.au/resources/international-education-data-and-research)| https://www.dese.gov.au/using-site/terms-use|
+| International Students| [Department of Education and Department of Employment and Workplace Relations (DESE)](https://www.education.gov.au/resources/international-education-data-and-research)| https://www.dese.gov.au/using-site/terms-use|
