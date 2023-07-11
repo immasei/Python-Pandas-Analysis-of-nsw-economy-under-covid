@@ -40,7 +40,7 @@ These data sets are recorded for every month for several years. We expect that i
 
 **3. Employment**
 
-- data is general: - Data is not divided by state but includes the whole of Australia. However, we assume that it’s the same trend in NSW.
+- data is general: Data is not divided by state but includes the whole of Australia. However, we assume that it’s the same trend in NSW.
 
 **4. Passenger air movement**
 
