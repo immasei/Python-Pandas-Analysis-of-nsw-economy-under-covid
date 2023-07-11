@@ -20,4 +20,7 @@ These data sets are recorded for every month for several years. We expect that i
 
 | Dataset   | Source  | License                         	      |
 | :-------- | :------: | :-------------------------------------- | 
-| International Students| [Department of Education and Department of Employment and Workplace Relations (DESE)](https://www.education.gov.au/resources/international-education-data-and-research)| https://www.dese.gov.au/using-site/terms-use|
+| International Students| [DESE](https://www.education.gov.au/resources/international-education-data-and-research)| 
+| OPAL trip counts | [OpenData](https://opendata.transport.nsw.gov.au/user/login destination=node/10468) | 
+| Employment | [ABS](https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/jul-2022) |
+| Passenger Air Movement | [BITRE](https://data.gov.au/dataset/ds-dga-cc5d888f-5850-47f3-815d-08289b22f5a8/details)|
