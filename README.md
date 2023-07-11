@@ -57,8 +57,11 @@ All cleaned datasets are limited to NSW, from Jan 2019 to Dec 2021. Each dataset
 
 ### Data Analysis: Covid19 impact on NSW economy
 We focus on 3 stages:
+
 2019: pre-covid (prep)
+
 2020: covid (peak)
+
 2021: post-covid (restoration)
 
 **1. International students** have a significant economic impact on Australia. According to Lauries Pearcey, Pro Vice-Chancellor International at UNSW Sydney, for every 3 overseas students studying in Australia, $1 million of economic activity is generated. This includes tuition fees, rent, bills, etc.…
