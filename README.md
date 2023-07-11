@@ -52,6 +52,7 @@ These data sets are recorded for every month for several years. We expect that i
 
 ### Data cleaning & visualising
 (Run the Jupyter Notebook)
+
 All cleaned datasets are limited to NSW, from Jan 2019 to Dec 2021. Each dataset contains 37 rows (including header) with strictly 12 months per year. 
 
 ### Data Analysis: Covid19 impact on NSW economy
