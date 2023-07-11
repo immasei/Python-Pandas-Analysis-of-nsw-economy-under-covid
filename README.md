@@ -17,3 +17,8 @@ In order to find out the economic consequences leaved by COVID-19 in Australia
 These data sets are recorded for every month for several years. We expect that in 2020 all data should decrease due to border closure, lockdowns, business difficulties and flight restrictions. Decreases in enrolments, employments, transport usages and flights (travel) will indeed show the impact on the economy.
 
 ## Data
+
+| Dataset   | Source  | License                         	      |
+| :-------- | :------: | :-------------------------------------- | 
+| International Students| [Department of Education and Department of Employment and Workplace
+Relations (DESE)](https://www.education.gov.au/resources/international-education-data-and-research)| https://www.dese.gov.au/using-site/terms-use|
