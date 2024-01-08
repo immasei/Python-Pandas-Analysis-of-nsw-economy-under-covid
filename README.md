@@ -1,5 +1,10 @@
 # An analysis of NSW economy under covid
 
+## Execute
+
+* Run `main.ipynb` in Jupyter Notebook
+* PDF version of the code is `code_pdf_review.pdf`
+  
 ## Question
 How covid impact the economy in Australia, especially in NSW?
 
