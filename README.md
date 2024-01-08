@@ -1,4 +1,7 @@
-# How covid impact the economy in Australia, especially in NSW?
+# An Analysis of NSW economy under Covid
+
+## Question
+How covid impact the economy in Australia, especially in NSW?
 
 ## Purpose
 COVID-19 officially started from January 2020 and still hasn't ended. It leaves heavy impacts on societies, health and economies. Still, there are people who haven’t been affected by the pandemic and some of them are very subjective. Therefore, we aim to highlight the seriousness of COVID-19 using supporting statistics, to raise awareness of people who travel by public transport, that they should follow the mask guidelines.
