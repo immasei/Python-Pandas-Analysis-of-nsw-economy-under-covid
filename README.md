@@ -1,4 +1,4 @@
-# An Analysis of NSW economy under Covid
+# An analysis of NSW economy under covid
 
 ## Question
 How covid impact the economy in Australia, especially in NSW?
